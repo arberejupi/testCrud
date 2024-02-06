@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VpQ3BgeuUHNN4ZNYZjYYJvrX6idL602WEItqcvTqcrc=",
+  "Source": "AppointEase.Host",
+  "BasePath": "_content/AppointEase.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
